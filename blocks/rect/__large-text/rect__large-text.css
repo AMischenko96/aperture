@@ -1,0 +1,11 @@
+.rect__large-text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 114%;
+  padding-bottom: 14px;
+  margin: 0;
+
+  color: #FFFFFF;
+}

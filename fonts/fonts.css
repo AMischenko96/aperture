@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Popping";
+  font-weight: 400;
+  src: url(../fonts/popping/Poppins-Light.ttf) format('ttf'),
+    url(../fonts/popping/Poppins-Italic.ttf) format('ttf');
+}

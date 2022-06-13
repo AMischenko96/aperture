@@ -1,0 +1,6 @@
+.rect__lang-links {
+  position: absolute;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}

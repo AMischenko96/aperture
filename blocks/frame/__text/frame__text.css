@@ -1,0 +1,6 @@
+.frame__text {
+  padding-top: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}

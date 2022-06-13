@@ -1,0 +1,7 @@
+.lead {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  background-image: url(/images/main-photo.svg);
+  background-size: cover;
+}

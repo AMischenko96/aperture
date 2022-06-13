@@ -1,0 +1,8 @@
+.intro__listing {
+  margin: 0 auto;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 576px);
+  gap: 16px;
+  width: 100%;
+}

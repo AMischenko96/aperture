@@ -1,0 +1,7 @@
+.starfall {
+  margin-top: 0;
+  padding: 0;
+  max-width: 100%;
+  background-image: url(/images/starfall.png);
+  background-size: cover;
+}

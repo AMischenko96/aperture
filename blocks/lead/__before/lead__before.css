@@ -1,0 +1,14 @@
+.lead__before {
+  margin: 0 auto 2px;
+  padding: 0;
+  max-width: 263px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  display: flex;
+  text-align: center;
+  text-transform: uppercase;
+  color: #C0C0C0;
+}

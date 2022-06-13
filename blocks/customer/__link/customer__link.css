@@ -1,0 +1,11 @@
+.costomer__link {
+  width: 270px;
+  height: 38px;
+  opacity: 1;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+}
+
+.costomer__link:hover {
+  opacity: 0.5;
+}

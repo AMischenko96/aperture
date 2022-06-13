@@ -1,0 +1,12 @@
+.frame__title {
+  padding-right: 154px;
+  margin: 0;
+  width: 206px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  text-transform: uppercase;
+  
+  color: #fff;
+}

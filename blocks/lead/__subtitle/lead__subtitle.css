@@ -1,0 +1,13 @@
+.lead__subtitle {
+  margin: 0 auto 60px;
+  padding: 0;
+  max-width: 580px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  display: flex;
+  text-align: center;
+  color: #C0C0C0;
+}

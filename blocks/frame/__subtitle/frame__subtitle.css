@@ -1,0 +1,13 @@
+.frame__subtitle {
+  display: flex;
+  padding-right: 62px;
+  padding-bottom: 203px;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  color: #C0C0C0;
+  width: 298px;
+}

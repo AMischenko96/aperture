@@ -1,0 +1,13 @@
+.intro__subtitle {
+  margin: 0 auto;
+  padding-bottom: 20px;
+  max-width: 413px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 143%;
+  display: flex;
+  text-align: center;
+  color: #C0C0C0;
+}
