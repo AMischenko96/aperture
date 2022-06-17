@@ -1,6 +1,7 @@
 .frame__title {
-  padding-right: 154px;
+  display: flex;
   margin: 0;
+  padding-right: 154px;
   width: 206px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;

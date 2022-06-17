@@ -2,6 +2,14 @@
   margin-top: 100px;
   padding: 0;
   max-width: 100%;
-  background-image: url(/images/fuji.png);
+  background-image: url(../../images/fuji.png);
   background-size: cover;
 }
+
+
+@media screen and (max-width: 350px) {
+  .frame {
+    max-width: 300px;
+  }
+}
+

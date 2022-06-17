@@ -1,0 +1,28 @@
+.footer__line-subtitle {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 154%;
+  color: #C0C0C0;
+  margin-bottom: 36px;
+
+}
+
+@media screen and (max-width: 768px) {
+  .footer__line-subtitle {
+    margin: 25px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer__line-subtitle {
+    margin: 25px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__line-subtitle {
+    margin: 10px 0;
+  }
+}

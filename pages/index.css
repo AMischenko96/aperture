@@ -1,0 +1,83 @@
+@import url(../normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__header/page__header.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/__lead/content__lead.css);
+@import url(../blocks/content/__intro/content__intro.css);
+@import url(../blocks/content/__frame/content__frame.css);
+@import url(../blocks/content/__rect/content__rect.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__list-item/header__list-item.css);
+@import url(../blocks/header/__menu/header__menu.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__before/lead__before.css);
+@import url(../blocks/lead/__lang-link/lead__lang-link.css);
+@import url(../blocks/lead/__lang-links/lead__lang-links.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__content-text/lead__content-text.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__listing/intro__listing.css);
+@import url(../blocks/intro/__fact/intro__fact.css);
+@import url(../blocks/intro/__fact-white/intro__fact-white.css);
+@import url(../blocks/intro/__picture-text/intro__picture-text.css);
+@import url(../blocks/intro/__black-text/intro__black-text.css);
+
+@import url(../blocks/frame/frame.css);
+@import url(../blocks/frame/__text/frame__text.css);
+@import url(../blocks/frame/__title/frame__title.css);
+@import url(../blocks/frame/__subtitle/frame__subtitle.css);
+@import url(../blocks/frame/__lang-links/frame__lang-links.css);
+@import url(../blocks/frame/__lang-link/frame__lang-link.css);
+
+@import url(../blocks/rect/rect.css);
+@import url(../blocks/rect/__conteiner/rect__conteiner.css);
+@import url(../blocks/rect/__text/rect__text.css);
+@import url(../blocks/rect/__lang-links/rect__lang-links.css);
+@import url(../blocks/rect/__lang-link/rect__lang-link.css);
+@import url(../blocks/rect/__overlay/rect__overlay.css);
+@import url(../blocks/rect/__large-text/rect__large-text.css);
+@import url(../blocks/rect/__title/rect__title.css);
+@import url(../blocks/rect/__subtitle/rect__subtitle.css);
+
+@import url(../blocks/fern/fern.css);
+
+@import url(../blocks/customer/customer.css);
+@import url(../blocks/customer/__link/customer__link.css);
+@import url(../blocks/customer/__logo-zone/customer__logo-zone.css);
+
+@import url(../blocks/starfall/starfall.css);
+
+@import url(../blocks/offer/offer.css);
+@import url(../blocks/offer/__text/offer__text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container-nav/footer__container-nav.css);
+@import url(../blocks/footer/__figur/footer__figur.css);
+@import url(../blocks/footer/__figur-black/footer__figur-black.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__line-title/footer__line-title.css);
+@import url(../blocks/footer/__box/footer__box.css);
+@import url(../blocks/footer/__nav-item/footer__nav-item.css);
+@import url(../blocks/footer/__nav-title/footer__nav-title.css);
+@import url(../blocks/footer/__nav-ul/footer__nav-ul.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__nav-li/footer__nav-li.css);
+@import url(../blocks/footer/__network-logo/footer__network-logo.css);
+@import url(../blocks/footer/__network/footer__network.css);
+@import url(../blocks/footer/__networks/footer__networks.css);
+@import url(../blocks/footer/__line-subtitle/footer__line-subtitle.css);
+@import url(../blocks/footer/__logo/footer__logo.css);

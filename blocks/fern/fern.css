@@ -2,6 +2,12 @@
   margin-top: 0;
   padding: 0;
   max-width: 100%;
-  background-image: url(/images/fern.png);
+  background-image: url(../../images/fern.png);
   background-size: cover;
+}
+
+@media screen and (max-width: 350px) {
+  .fern {
+    max-width: 300px;
+  }
 }

@@ -7,7 +7,12 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 143%;
-  display: flex;
   text-align: center;
   color: #C0C0C0;
+}
+
+@media screen and (max-width: 350px) {
+  .lead__subtitle {
+    max-width: 300px;
+  }
 }

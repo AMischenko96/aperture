@@ -1,0 +1,39 @@
+.footer__figur {
+  margin: 0;
+  justify-items: end;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;  
+  background-color: #fff;
+  width: 458px;
+  height: 52px;
+  border-radius: 12px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer__figur {
+    width: 400px;
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer__figur {
+    width: 320px;
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .footer__figur {
+    width: 280px;
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__figur {
+    width: 220px;
+    margin: 10px;
+  }
+}

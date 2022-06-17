@@ -1,0 +1,12 @@
+.footer__nav-title {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: #C0C0C0;
+}

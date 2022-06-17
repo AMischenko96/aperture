@@ -2,6 +2,19 @@
   margin: 0;
   padding: 0;
   max-width: 100%;
-  background-image: url(/images/main-photo.svg);
+  background-image: url(../../images/main-photo.svg);
   background-size: cover;
+}
+
+@media screen and (max-width: 375px) {
+  .lead {
+    max-width: 400px;
+    max-height: 600px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {
+    max-width: 300px;
+  }
 }

@@ -8,3 +8,10 @@
   margin-bottom: 30px;
   max-width: 450px;
 }
+
+@media screen and (max-width: 350px) {
+  .intro__picture-text {
+    max-width: 270px;
+    margin: 0 auto;
+  }
+}

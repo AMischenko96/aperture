@@ -2,4 +2,45 @@
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
+  width: 640px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .rect__overlay {
+    max-width: 500px;
+  }
+}
+
+@media screen and (max-width: 786px) {
+  .rect__overlay {
+    max-width: 380px;
+    max-height: 400px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .rect__overlay {
+    max-width: 425px;
+    max-height: 350px;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .rect__overlay {
+    max-width: 350px;
+    max-height: 300px;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .rect__overlay {
+    max-width: 340px;
+    max-height: 270px;
+    margin-top: 10px;
+  }
 }

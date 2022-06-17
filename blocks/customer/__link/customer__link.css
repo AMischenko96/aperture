@@ -1,11 +1,14 @@
-.costomer__link {
+.customer__link {
   width: 270px;
-  height: 38px;
+  height: 90px;
   opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   transition-property: opacity;
   transition-duration: 0.5s;
 }
 
-.costomer__link:hover {
+.customer__link:hover {
   opacity: 0.5;
 }

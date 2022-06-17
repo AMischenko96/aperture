@@ -4,5 +4,58 @@
   display: grid;
   grid-template-columns: repeat(2, 576px);
   gap: 16px;
-  width: 100%;
+  max-width: 1168px;
+}
+
+
+@media screen and (max-width: 1130px) {
+  .intro__listing {
+    grid-template-columns: repeat(2, 390px);
+    gap: 12px;
+    max-width: 800px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .intro__listing {
+    margin: 0 auto;
+    padding: 0;
+    grid-template-columns: repeat(2, 300px);
+    gap: 10px;
+    max-width: 610px;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .intro__listing {
+    margin: 0 auto;
+    padding: 0;
+    grid-template-columns: repeat(1, 500px);
+    gap: 10px;
+    max-width: 510px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .intro__listing {
+    margin: auto;
+    grid-template-columns: repeat(1, 380px);
+    max-width: 380px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .intro__listing {
+    margin: auto;
+    grid-template-columns: repeat(1, 340px);
+    max-width: 340px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .intro__listing {
+    margin: auto;
+    grid-template-columns: repeat(1, 270px);
+    max-width: 270px;
+  }
 }
